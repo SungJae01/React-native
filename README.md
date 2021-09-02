@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/88194064/131821200-03e55883-fc5e-4873-96e3-dc4a5dc62a74.gif" float: left>
 
-**List**
+**To do List**
 * 로그인
   - 회원가입
     + ~~데이터베이스~~
