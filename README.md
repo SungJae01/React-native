@@ -2,7 +2,7 @@
 
 열심히 노력중...
 
-<img src="https://user-images.githubusercontent.com/88194064/131821200-03e55883-fc5e-4873-96e3-dc4a5dc62a74.gif" width="40%">
+<img src="https://user-images.githubusercontent.com/88194064/131821200-03e55883-fc5e-4873-96e3-dc4a5dc62a74.gif" width="100%">
 
 **List**
 * 로그인
