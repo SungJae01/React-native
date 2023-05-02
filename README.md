@@ -24,3 +24,6 @@
 <details>
   <summary> :blue_book: </summary>
 </details>
+<details>
+  <summary> </summary>
+</details>
